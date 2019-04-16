@@ -44,6 +44,9 @@ class TuChongSource {
   }
 }
 
+/**
+ * 数据实体
+ */
 class TuChongItem {
   Object title_image;
   int comments;
